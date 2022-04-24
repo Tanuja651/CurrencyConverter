@@ -1,4 +1,4 @@
-# CurrencyConvertor
+# CurrencyConverter
  Currency Converter converts currencies using currencyconverterapi.
  
  This project is built with python using streamlit.
