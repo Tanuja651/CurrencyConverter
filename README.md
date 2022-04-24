@@ -10,7 +10,7 @@ Go through link below and generate your apikey-->
 
 https://free.currencyconverterapi.com/free-api-key 
 
-# How do I run currencyconvertor.py file
+# How do I run CurrencyConverter.py file
 
 Use the command below 👇
 
